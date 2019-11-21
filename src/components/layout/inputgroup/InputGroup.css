@@ -1,0 +1,12 @@
+.form-control{
+  border-radius:0%;
+  border-right: none;
+  border-left: none;
+  border-top: none;
+  padding-bottom: 0;
+  background: transparent;
+}
+.form-control:focus{
+  outline: none;
+  background: transparent;
+}

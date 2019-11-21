@@ -1,0 +1,10 @@
+:root{
+  --elegant-black: #2e2e2e;
+  --dark-blue: #0084b4;
+  --logo-blue: #007bff;
+  --verified-blue: #1dcaff;
+  --off-white: #fafafa;
+}
+body{
+  background-color:var(--logo-blue);
+}
